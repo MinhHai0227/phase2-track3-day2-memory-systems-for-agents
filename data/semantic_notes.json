@@ -1,0 +1,27 @@
+[
+  {
+    "id": "grounding-54321",
+    "title": "Bai tap grounding 5-4-3-2-1",
+    "content": "Khi nguoi dung lo lang, co the moi ho ke 5 thu nhin thay, 4 thu cam thay, 3 am thanh nghe duoc, 2 mui nhan ra, va 1 dieu biet on."
+  },
+  {
+    "id": "work-stress",
+    "title": "Xu ly stress cong viec",
+    "content": "Goi y chia viec thanh buoc nho, viet ra viec nam trong tam kiem soat, chon mot hanh dong 10 phut dau tien, va nghi giai lao ngan."
+  },
+  {
+    "id": "conflict-talk",
+    "title": "Noi chuyen khi xung dot",
+    "content": "Dung cau bat dau bang 'minh cam thay', noi ve hanh vi cu the, tranh gan nhan, va de nghi mot buoc nho co the lam ngay."
+  },
+  {
+    "id": "privacy",
+    "title": "Quyen rieng tu memory",
+    "content": "Memory tam su co the nhay cam. Chi luu dieu can thiet, ton trong consent, cho phep xoa, va tranh ghi PII khong can cho ung dung."
+  },
+  {
+    "id": "crisis-support",
+    "title": "Tin hieu khan cap",
+    "content": "Neu nguoi dung noi ve tu hai, bao luc, hoac nguy hiem ngay lap tuc, khuyen khich lien he nguoi than dang tin cay hoac dich vu khan cap tai dia phuong."
+  }
+]

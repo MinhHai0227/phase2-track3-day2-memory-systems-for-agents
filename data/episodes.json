@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2026-04-24T04:52:47.923215+00:00",
+    "topic": "general_reflection",
+    "summary": "Tôi tên là Linh.",
+    "outcome": "Chào Linh! Rất vui được trò chuyện với bạn. Bạn có điều gì muốn chia sẻ hôm nay không?"
+  },
+  {
+    "timestamp": "2026-04-24T04:53:11.167632+00:00",
+    "topic": "profile_update",
+    "summary": "tôi dị ứng với sữa bò",
+    "outcome": "Cảm ơn Linh đã chia sẻ. Dị ứng với sữa bò có thể gây khó chịu. Bạn có gặp phải vấn đề gì liên quan đến dị ứng này không?"
+  },
+  {
+    "timestamp": "2026-04-24T04:53:49.472243+00:00",
+    "topic": "profile_update",
+    "summary": "à quên tôi bị dị ứng đầu nành chứ không phải sữa bò",
+    "outcome": "Cảm ơn Linh đã làm rõ. Dị ứng với đậu nành cũng có thể gây khó chịu. Bạn có gặp phải triệu chứng nào đặc biệt khi tiếp xúc với đậu nành không?"
+  },
+  {
+    "timestamp": "2026-04-24T05:03:54.888350+00:00",
+    "topic": "general_reflection",
+    "summary": "tên tôi là Hải",
+    "outcome": "Cảm ơn Hải đã chia sẻ. Rất vui được biết tên bạn! Bạn có điều gì khác muốn tâm sự không?"
+  },
+  {
+    "timestamp": "2026-04-24T05:04:49.788368+00:00",
+    "topic": "work_stress",
+    "summary": "công việc của tôi là thợ mộc",
+    "outcome": "Rất tuyệt, Hải! Công việc thợ mộc thường rất sáng tạo và thú vị. Bạn có thích làm những sản phẩm gì nhất trong công việc của mình?"
+  },
+  {
+    "timestamp": "2026-04-24T05:05:48.105721+00:00",
+    "topic": "general_reflection",
+    "summary": "tên tôi là gì",
+    "outcome": "Tên bạn là Hải. Bạn có điều gì khác muốn chia sẻ không?"
+  },
+  {
+    "timestamp": "2026-04-24T05:05:58.509393+00:00",
+    "topic": "work_stress",
+    "summary": "công việc hiện tại của tôi",
+    "outcome": "Công việc hiện tại của bạn là thợ mộc. Bạn có muốn chia sẻ thêm về những dự án hoặc sản phẩm mà bạn đang làm không?"
+  },
+  {
+    "timestamp": "2026-04-24T05:07:17.807499+00:00",
+    "topic": "work_stress",
+    "summary": "tôi mới chuyển nghề qua deverloper. tôi rất vui khi làm công việc này",
+    "outcome": "Thật tuyệt khi bạn đã chuyển sang nghề developer! Công việc này chắc chắn mang lại nhiều cơ hội thú vị. Bạn thích làm việc với công nghệ nào nhất trong lĩnh vực phát triển phần mềm?"
+  },
+  {
+    "timestamp": "2026-04-24T05:07:42.748249+00:00",
+    "topic": "general_reflection",
+    "summary": "phát triền phần mềm đấy. bạn thấy lĩnh vực này ntn",
+    "outcome": "Lĩnh vực phát triển phần mềm rất năng động và đầy thách thức. Nó không chỉ yêu cầu kỹ năng kỹ thuật mà còn cả khả năng sáng tạo và giải quyết vấn đề. Bạn có cảm thấy thích thú với những thách thức trong công việc này không?"
+  },
+  {
+    "timestamp": "2026-04-24T05:08:18.411086+00:00",
+    "topic": "work_stress",
+    "summary": "công việc hiện tại của toi",
+    "outcome": "Công việc hiện tại của bạn là developer. Bạn có muốn chia sẻ thêm về những dự án hoặc công nghệ mà bạn đang làm việc không?"
+  },
+  {
+    "timestamp": "2026-04-24T05:08:30.419978+00:00",
+    "topic": "profile_update",
+    "summary": "tôi bị dị ứng với gì",
+    "outcome": "Bạn bị dị ứng với đậu nành. Bạn có gặp phải triệu chứng nào đặc biệt khi tiếp xúc với đậu nành không?"
+  },
+  {
+    "timestamp": "2026-04-24T05:09:00.055299+00:00",
+    "topic": "profile_update",
+    "summary": "trước đó tôi đã dị ứng gì thay vì đậu nành",
+    "outcome": "Trước đó, bạn đã dị ứng với sữa bò. Bạn có gặp phải vấn đề gì liên quan đến dị ứng này không?"
+  }
+]
